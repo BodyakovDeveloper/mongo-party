@@ -1,6 +1,2 @@
-spring:
-  data:
-    mongodb:
-      host: localhost
-      database:
-      port: 
+server:
+  port: 8080
